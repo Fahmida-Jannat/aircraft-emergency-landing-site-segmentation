@@ -113,9 +113,9 @@ The models identify visual candidate regions rather than certifying landing safe
 
 ## Research Paper
 
-The complete research methodology, experiments, comparative evaluation, and error analysis are documented in the research paper.
+The complete research methodology, experiments, comparative evaluation, and error analysis are documented in the report .
 
-**[Read the Research Paper](reports/Research_Paper.pdf)**
+**[Read the Report](report)**
 
 ## Project Contributors
 
