@@ -111,11 +111,13 @@ aircraft-emergency-landing-site-segmentation/
 
 The models identify visual candidate regions rather than certifying landing safety. Operational factors such as terrain slope, obstacles, weather, and aircraft requirements are not evaluated. Additionally, the SSL experiments used the test set during checkpoint selection, so reported scores may be optimistic.
 
-## Research Paper
 
-The complete research methodology, experiments, comparative evaluation, and error analysis are documented in the report .
+## Project Report
 
-**[Read the Report](report)**
+The complete project report presents the methodology, dataset preparation, model implementations, experimental results, performance comparisons, and error analysis conducted during this project.
+
+📄 **[View Project Report](Report/Supervised_and_Self_Supervised_Semantic_Segmentation_for_Aircraft_Emergency_Landing_Site_Identification%20%286%29.pdf)**
+
 
 ## Project Contributors
 
